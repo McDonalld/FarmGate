@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35590476152",
+    "project_id": "farm-gate-cd5b5",
+    "storage_bucket": "farm-gate-cd5b5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35590476152:android:73e7956f0c59c33350f88d",
+        "android_client_info": {
+          "package_name": "com.farmgate.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuSen0KSdX5GWrmWfD5x14kgz3ZVXghf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
