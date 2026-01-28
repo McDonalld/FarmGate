@@ -1,6 +1,5 @@
 import { router } from "expo-router";
 import { StatusBar } from "expo-status-bar";
-import React from "react";
 import {
   Image,
   ImageBackground,
@@ -49,7 +48,7 @@ const Home = () => {
         >
           <View style={{ marginBottom: ms(30), alignItems: "center" }}>
             <Text style={{ fontSize: s(40), color: "#fff", fontWeight: "500" }}>
-              Let's Get Started
+              Let's Get Going
             </Text>
 
             <Text
